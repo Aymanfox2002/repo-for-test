@@ -1,1 +1,2 @@
 - Hey I am learn the branching basics now!
+- "bugFix" is new branch now!
