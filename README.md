@@ -2,4 +2,4 @@
 - "bugFix" is new branch now!
 - new line in main branch
 - new line with bugFix
-- commit (X) from main branch
+- commit (X) from bugfix branch
