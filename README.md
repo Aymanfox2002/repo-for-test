@@ -3,3 +3,9 @@
 - new line in main branch
 - new line with bugFix
 - commit (X) from bugfix branch
+- line a
+- line b
+- line c
+- Lesson 1
+- Lesson 2
+- Lesson 3
