@@ -1,15 +1,10 @@
-- Hey I am learn the branching basics now!
-- "bugFix" is new branch now!
-- new line in main branch
-- new line with bugFix
-- commit (X) from bugfix branch
-- line a
-- line b
-- line c
-- Lesson 1
-- Lesson 2
-- Lesson 3
-- A
-- B
-- one
-- two
+
+
+# BugFix branch
+- this text created by "bugFix"
+=======
+# Master branch
+- this text created by "master"
+=======
+# Main branch
+- this text created by "main"
